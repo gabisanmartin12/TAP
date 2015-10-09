@@ -17,4 +17,4 @@ int main(int argc, char *argv[]) {
 		cout << ir << endl;
 	}
 	return 0;
-}
+} 
